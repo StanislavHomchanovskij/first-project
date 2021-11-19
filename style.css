@@ -1,0 +1,21 @@
+body{
+    padding: 30px;
+    
+}
+.block {
+    width: 500px;
+    height: 200px;
+    background-color: aqua;
+    border : 1px solid rgb(21, 122, 216);
+    display: flex;
+    justify-content: center;
+}
+.block1 {
+    width: 150px;
+    height: 100px;
+    background-color: black;
+}
+.block2 {
+     width: 150px;
+    height: 100px;background-color: blue;
+}
